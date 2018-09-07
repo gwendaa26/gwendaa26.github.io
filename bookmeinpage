@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
+<head>
+    <title>Gwenda's Portfolio</title>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Responsive HTML5 Website Landing Page for Developers">
+    <meta name="author" content="Xiaoying Riley at 3rd Wave Media">    
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'> 
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">   
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
+    
+    <!-- github calendar css -->
+    <link rel="stylesheet" href="assets/plugins/github-calendar/dist/github-calendar.css"
+/>
+    <!-- github acitivity css -->
+    <link rel="stylesheet" href="assets/plugins/github-activity/src/github-activity.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">
+    
+    <!-- Theme CSS -->  
+    <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+</head> 
+
+<body>
+    <!-- ******HEADER****** --> 
+    <header class="header">
+        <div class="container">                       
+            <img class="profile-image img-responsive pull-left" src="assets/images/gwendahasnaa.jpg" alt="GwendaHasnaa" style="width: 200px" />
+            <div class="profile-content pull-left">
+                <h1 class="name">Gwenda Hasnaa Sarri</h1>
+                <h2 class="desc">Mobile Developer (iOS)</h2>   
+                <ul class="social list-inline">
+                    <li><a href="https://www.facebook.com/gwendaa.hasnaa"><i class="fa fa-facebook"></i></a></li>                   
+                    <li><a href="https://www.linkedin.com/in/gwendahasnaa/"><i class="fa fa-linkedin"></i></a></li>
+                </ul> 
+            </div><!--//profile-->
+            <a class="btn btn-cta-primary pull-right" href="GwendaHasnaa_Resume.pdf" target="_blank"><i class="fa fa-paper-plane"></i> Download my Resume</a>              
+        </div><!--//container-->
+    </header><!--//header-->
+    
+    <div class="container sections-wrapper">
+        <div class="row">
+            <div class="primary col-md-8 col-sm-12 col-xs-12">
+              <section class="latest section">
+                <div class="section-inner">
+                        <h3 class="title"><a href="bookmein.zip" target="_blank">Book Me In Project</a></h3>
+                        
+                  <div class="content">
+                  <div class="item featured text-center">
+                  
+                  
+                  
+                  <p class="summary">An application to ease the users to book the appointment based on the existing services</p>
+                                <div class="featured-image">
+                                    
+                  
+                                <h3 class="title">Book Me In Project</h3>
+                                 <p class="summary">An application to ease the users to book the appointment based on the existing services</p>
+                                <div class="featured-image">
+                               <p align="middle"> <img class="img-responsive project-image" src="assets/images/bookmein-2.png" width="300" height="457" style="margin-left:250px" alt="Bookmein" />
+</p>  
+                                </div>
+                                <div class="desc text-left">     
+                      
+                                    <p>Book Me In is a booking mobile application based on iOS platform. In here, the server provider offers their services and working days, so the end user can use their services to book the appointment. After that, the end user will accept the confirmation of booking appointment after selecting the services. Then, the calendar will automatically update for both service provider and end user.
+The purpose of this application is to aid the end user to find the services that the service providers have already delivered and suit for them for booking the appointment.</p>
+
+                                  <p> Moreover, this project can be said nearly complete. A few features cannot work appropriate due to the database problems that couldn't receive to the code at the moment. Therefore, this application is still in offline mode, which cannot show the data from the database or a server. </p>
+                                  <p> At last, I had two roles to contribute in this project. There were a mobile developer and a UI/UX Designer. As a mobile developer, I did the codes for the interface in this application. For instances:
+                                  <ul>
+                                    <li>Login page</li>
+                                    <li>Register page </li>
+                                    <li>Homepage </li>
+                                    <li>List of services</li>
+                                    <li>Description of services</li>
+                                    <li>Appointment confirmation page</li>
+                                  </ul>
+
+                                  </p>
+                                <div class="item">
+                <h3 class="title">ScreenShot</h3>
+<p></p>
+
+                                <img src="assets/images/login.PNG" width="170" height="300" alt="Bookmein" hspace="10"/>
+                                <img src="assets/images/register.PNG" width="170" height="300" alt="Bookmein" hspace="10"/>
+                                <img src="assets/images/categories.PNG" width="170" height="300" alt="Bookmein" hspace="10"/>
+                                <img src="assets/images/list.PNG" width="170" height="300" alt="Bookmein" hspace="10"/>
+  							<p>
+                              <img src="assets/images/desc.PNG" width="170" height="300" alt="Bookmein" hspace="10"/>
+                                <img src="assets/images/desc2.PNG" width="170" height="300" alt="Bookmein" hspace="10"/>
+                                <img src="assets/images/confirmation.PNG" width="170" height="300" alt="Bookmein" hspace="10"/>
+                              <img src="assets/images/calendar.PNG" width="170" height="300" alt="Bookmein" hspace="10"/>
+                </p>
+
+                <p align ="middle"> As a UI/UX Designer, I designed the icons for this application by using Adobe Photoshop. Here's the outcomes of my designs:</p>
+
+                                <p align ="middle"><b> Service category icons</b></p>
+                                <p align ="middle">
+                                <img src="assets/images/restaurant.png" width="50" height="50" alt="Bookmein" hspace="10"/>
+                                <img src="assets/images/beauty.png" width="50" height="50" alt="Bookmein" hspace="10"/>
+                              <img src="assets/images/medical.png" width="50" height="50" alt="Bookmein" hspace="10"/>
+                                <img src="assets/images/education.png" width="50" height="50" alt="Bookmein" hspace="10"/>
+                                <img src="assets/images/sport.png" width="50" height="50" alt="Bookmein" hspace="10"/>
+                              </p>
+                              <p align ="middle"><b> Logo icon</b></p>
+                                <p align ="middle">
+                                 <img class="img-responsive project-image" src="assets/images/bookmein-2.png" width="200" height="250" alt="Bookmein" />
+                                                                 </p>
+
+                        </div><!--//item-->
+                              </div><!--//desc-->
+                                <a class="btn btn-cta-secondary" href="https://bitbucket.org/bookmein1/bookmein" target="_blank"><i class="fa fa-eye"></i> See my project</a>
+                            </div><!--//item-->
+                            <hr class="divider" />
+
+
+                        </div><!--//content-->
+                    </div><!--//section-inner-->
+                </section><!--//section-->
